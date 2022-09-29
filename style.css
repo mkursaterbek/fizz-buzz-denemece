@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(to left, blue, red) right;
+}
+
+.monitor {
+  text-align: center;
+
+  font-size: 100px;
+}
+
+.countdown {
+  text-align: center;
+  font-size: 25px;
+  margin-top: 35vh;
+}
+
+.buttons {
+  text-align: center;
+}
